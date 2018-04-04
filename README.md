@@ -1,3 +1,7 @@
+[![Published on vaadin.com/directory](https://img.shields.io/vaadin-directory/status/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/status/spring-session-redis.svg)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)
+[![Latest version on vaadin.com/directory](https://img.shields.io/vaadin-directory/v/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/v/spring-session-redis.svg)
+
 # vaadin-spring-session-redis
 
 [spring-session-redis](https://vaadin.com/directory#!addon/spring-session-redis) is a Vaadin Add-on that allows you to replace the standard HttpSesion with Redis in Vaadin applications using Spring Session.
