@@ -1,5 +1,5 @@
-[![Published on vaadin.com/directory](https://img.shields.io/vaadin-directory/status/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/status/spring-session-redis.svg)
-[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/spring-session-redis)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/spring-session-redis.svg)](https://vaadin.com/directory/component/spring-session-redis)
 [![Latest version on vaadin.com/directory](https://img.shields.io/vaadin-directory/v/spring-session-redis.svg)](https://img.shields.io/vaadin-directory/v/spring-session-redis.svg)
 
 # vaadin-spring-session-redis
